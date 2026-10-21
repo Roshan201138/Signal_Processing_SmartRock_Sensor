@@ -9,7 +9,6 @@ Python scripts for processing SmartRock accelerometer and gyroscope measurements
 ├── Compaction.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
 ├── Cyclic_loading_data/
 └── Compaction_Data/
 ```

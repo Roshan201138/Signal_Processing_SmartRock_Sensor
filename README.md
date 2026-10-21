@@ -3,15 +3,12 @@
 Python scripts for processing SmartRock accelerometer and gyroscope measurements obtained during cyclic triaxial loading and compaction of unbound granular materials. The scripts create `Cyclic_loading_output/` and `Compaction_output/` automatically. 
 
 ## Repository structure
-
-```
-├── Cyclic_loading.py
-├── Compaction.py
-├── requirements.txt
-├── README.md
+├── Compaction_Data/
 ├── Cyclic_loading_data/
-└── Compaction_Data/
-```
+├── Compaction.py
+├── Cyclic_loading.py
+├── README.md
+└── requirements.txt
 
 ## Installation
 
